@@ -27,3 +27,9 @@ This repository contains detailed character sheets and backstories for D&D 5e ch
    - **Class:** Sorcerer (Storm Sorcery)
    - **Background:** Hermit
    - **Overview:** An aasimar sorcerer attuned to high mountain tempests and elemental storms.
+
+5. **[Milo Swiftfoot](./milo-swiftfoot/)**
+   - **Race:** Lightfoot Halfling
+   - **Class:** Bard (College of Lore)
+   - **Background:** Entertainer
+   - **Overview:** A cheerful wandering minstrel who weaves magic into song, charming his way through trouble and lifting spirits along the road.
