@@ -1,0 +1,1 @@
+Everytime this invoked, use the image provided to generated a set of 10 different expressions. If an image is not provided prompt the user for one, or they can choose to generate an entirely new image from scratch
